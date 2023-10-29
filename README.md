@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Arvind
-- 👀 I’m interested in Full Stack Development 
-- 🌱 I’m currently learning Java & React
-- 💞️ I’m looking to collaborate on Frontend & Backend Projects
+- 👀 I’m interested in Frontend Development 
+- 🌱 I’m currently learning JavaScript & React
+- 💞️ I’m looking to collaborate on Frontend Projects
 - 📫 Reach me through LinkedIn or Email i.e. hey.arvind02@gmail.com
 
 <!---
